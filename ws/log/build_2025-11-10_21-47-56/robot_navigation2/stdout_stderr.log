@@ -1,0 +1,21 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nangao/my_project/ws/build/robot_navigation2
+-- Install configuration: ""
+-- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/lib/robot_navigation2/explore.py
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/ament_index/resource_index/package_run_dependencies/robot_navigation2
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/ament_index/resource_index/parent_prefix_path/robot_navigation2
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/ament_prefix_path.sh
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/ament_prefix_path.dsv
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/path.sh
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/path.dsv
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.bash
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.sh
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.zsh
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.dsv
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/package.dsv
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/ament_index/resource_index/packages/robot_navigation2
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/cmake/robot_navigation2Config.cmake
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/cmake/robot_navigation2Config-version.cmake
+-- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/package.xml

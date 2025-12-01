@@ -1,0 +1,1 @@
+rclpy;nav2_simple_commander;nav2_msgs;nav_msgs;geometry_msgs;python3-numpy;python3-scipy;launch;launch_ros

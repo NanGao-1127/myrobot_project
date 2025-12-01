@@ -1,0 +1,47 @@
+[0.031s] Invoking command in '/home/nangao/my_project/ws/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nangao/my_project/ws/build/robot_description -- -j8 -l8
+[0.153s] Invoked command in '/home/nangao/my_project/ws/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nangao/my_project/ws/build/robot_description -- -j8 -l8
+[0.154s] Invoking command in '/home/nangao/my_project/ws/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nangao/my_project/ws/build/robot_description
+[0.163s] -- Install configuration: ""
+[0.164s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/launch
+[0.165s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/launch/display_robot.launch.py
+[0.165s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/launch/__pycache__
+[0.165s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/launch/__pycache__/display_robot.launch.cpython-312.pyc
+[0.165s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/launch/gazebo_sim.launch.py
+[0.165s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf
+[0.167s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/actuator
+[0.167s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/actuator/caster.urdf.xacro
+[0.168s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/actuator/wheel.urdf.xacro
+[0.168s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/plugins
+[0.168s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/plugins/gazebo_sensor_plugin.xacro
+[0.169s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/plugins/gazebo_control_plugin.xacro
+[0.169s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/base.urdf.xacro
+[0.169s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/sensor
+[0.169s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/sensor/imu.urdf.xacro
+[0.169s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/sensor/laser.urdf.xacro
+[0.169s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/mybot.urdf.xacro
+[0.170s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/mybot.ros2_control.xacro
+[0.170s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/urdf/common_inertial.xacro
+[0.170s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/config
+[0.170s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/config/display_robot_model.rviz
+[0.170s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/config/mybot_ros2_controller.yaml
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/world
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/world/custom_room.world
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/world/room
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/world/room/model.sdf
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/world/room/model.config
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[0.171s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[0.175s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[0.175s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/environment/path.sh
+[0.175s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/environment/path.dsv
+[0.176s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/local_setup.bash
+[0.176s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/local_setup.sh
+[0.176s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/local_setup.zsh
+[0.177s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/local_setup.dsv
+[0.177s] -- Installing: /home/nangao/my_project/ws/install/robot_description/share/robot_description/package.dsv
+[0.177s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[0.177s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[0.177s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[0.178s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_description/share/robot_description/package.xml
+[0.204s] Invoked command in '/home/nangao/my_project/ws/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nangao/my_project/ws/build/robot_description

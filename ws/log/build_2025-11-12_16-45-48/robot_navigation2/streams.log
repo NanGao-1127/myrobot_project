@@ -1,0 +1,21 @@
+[0.024s] Invoking command in '/home/nangao/my_project/ws/build/robot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nangao/my_project/ws/build/robot_navigation2 -- -j8 -l8
+[0.069s] Invoked command in '/home/nangao/my_project/ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nangao/my_project/ws/build/robot_navigation2 -- -j8 -l8
+[0.071s] Invoking command in '/home/nangao/my_project/ws/build/robot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nangao/my_project/ws/build/robot_navigation2
+[0.081s] -- Install configuration: ""
+[0.081s] -- Installing: /home/nangao/my_project/ws/install/robot_navigation2/lib/robot_navigation2/explore.py
+[0.081s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/ament_index/resource_index/package_run_dependencies/robot_navigation2
+[0.081s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/ament_index/resource_index/parent_prefix_path/robot_navigation2
+[0.081s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/ament_prefix_path.sh
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/ament_prefix_path.dsv
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/path.sh
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/environment/path.dsv
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.bash
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.sh
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.zsh
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/local_setup.dsv
+[0.082s] -- Installing: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/package.dsv
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/ament_index/resource_index/packages/robot_navigation2
+[0.082s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/cmake/robot_navigation2Config.cmake
+[0.083s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/cmake/robot_navigation2Config-version.cmake
+[0.083s] -- Up-to-date: /home/nangao/my_project/ws/install/robot_navigation2/share/robot_navigation2/package.xml
+[0.099s] Invoked command in '/home/nangao/my_project/ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nangao/my_project/ws/build/robot_navigation2
